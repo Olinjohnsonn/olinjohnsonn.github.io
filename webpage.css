@@ -1,15 +1,16 @@
 
 
-#header2 {position: absolute; top: -210px; left: -100px;}
+
+#matter{position: absolute; top: 400px; left: -70px; padding: 35px}
 
 
 
+#squadpop {position: absolute; top: 10px; left: 600px;
+padding: 30px;}
 
-#matter{position: absolute; top: 100px; left: 600px; padding: 100px}
+#links {font-size: x-large;font-family: fantasy;color: rgb(52, 138, 235);}
 
 
+#jones2 {position: absolute; top: 700px; left: 650px;}
 
-#squadpop {position: absolute; top: 400px; left: 600px;}
-
-#links {font-size: x-large;}
 
