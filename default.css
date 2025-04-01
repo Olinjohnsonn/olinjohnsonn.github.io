@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+
+#picture{
+    position: absolute; top: 100px; left: 200px;
+padding: 0%;}
